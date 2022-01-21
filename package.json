@@ -1,0 +1,22 @@
+{
+  "name": "crud-timesfutebol-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunolisboa/crud-timesFutebol-nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunolisboa/crud-timesFutebol-nodeJs/issues"
+  },
+  "homepage": "https://github.com/Brunolisboa/crud-timesFutebol-nodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
